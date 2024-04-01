@@ -1,0 +1,13 @@
+#navig{
+	border: 2px solid white;
+}
+#navig ul{
+	text-align: center;
+
+}
+
+#navig li{
+	display:inline-block;
+	width: 10%;
+	list-style: none;
+}
